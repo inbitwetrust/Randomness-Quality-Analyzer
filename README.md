@@ -36,7 +36,7 @@ Follow these steps to initialize the environment and run the evaluation suite:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/inbitwetrust/randomness-analyzer.git](https://github.com/inbitwetrust/randomness-analyzer.git)
+git clone [https://github.com/inbitwetrust/Randomness-Quality-Analyzer.git](https://github.com/inbitwetrust/Randomness-Quality-Analyzer.git)
 cd randomness-analyzer
 
 # Create and activate virtual environment
