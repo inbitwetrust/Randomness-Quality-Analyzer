@@ -80,3 +80,19 @@ Email address: du3mceskwd5wfy.gyf92@slmail.me
 This project is licensed under the **MIT License**.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, provided that the above copyright notice and this permission notice are included in all copies or substantial portions of the Software.
+
+## Legal Disclaimer & Regulatory Compliance
+
+**1. Educational and Research Use Only** The software, algorithms, and analytical tools provided in this repository are strictly for educational, academic, and non-commercial research purposes. The statistical analysis performed by `CheckRandomnessQuality.py` does NOT certify any sequence as a Cryptographically Secure Pseudo-Random Number Generator (CSPRNG). Users must not rely on this tool to validate randomness for encryption keys, financial transactions, secure communications, or any other critical security infrastructure. 
+
+**2. Export Control and Jurisdictional Restrictions** Software relating to random number generation and algorithmic cryptography analysis may be subject to strict export controls and regulations in various jurisdictions (including, but not limited to, regulations aligned with the *Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies*). 
+
+By downloading, cloning, or utilizing this repository, you explicitly acknowledge and agree that:
+* **You are solely responsible** for ensuring that your access to and use of this software complies with all applicable local, state, national, and international laws.
+* **Prohibited Jurisdictions:** You may not use, export, or re-export this software to any country, region, or entity where the possession, use, or distribution of cryptographic or randomness-analysis tools is restricted, heavily regulated, or outright prohibited by law.
+* **No Illicit Use:** This software must not be utilized to exploit vulnerabilities, bypass security protocols, or facilitate any form of illegal activity, cyberattack, or unauthorized system access.
+
+**3. Limitation of Liability** In no event shall the author(s), contributor(s), or copyright holder(s) be liable for any claim, damages, legal repercussions, or other liability—whether in an action of contract, tort, or otherwise—arising from, out of, or in connection with the software, its usage, or its potential non-compliance with regional regulatory frameworks. The user assumes all legal and operational risks associated with the deployment of these scripts.
+
+
+
