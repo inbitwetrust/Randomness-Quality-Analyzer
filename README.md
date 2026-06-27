@@ -51,3 +51,32 @@ source myenv/bin/activate
 
 # Install dependencies
 pip install numpy matplotlib scipy pillow
+```
+
+### 2. Execution Guide
+
+* **To generate a high-entropy image:**
+  ```bash
+  python GoodRandomGenerator.py
+  ```
+
+* **To generate a test pattern (for algorithm failure validation):**
+  ```bash
+  python BadRandomGenerator.py
+  ```
+
+* **To audit a target image:**
+  ```bash
+  python CheckRandomnessQuality.py path/to/your/image.png
+  ```
+
+## Authorship
+
+**George W. Aravidis **
+Email address: du3mceskwd5wfy.gyf92@slmail.me
+
+## License
+
+This project is licensed under the **MIT License**.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, provided that the above copyright notice and this permission notice are included in all copies or substantial portions of the Software.
