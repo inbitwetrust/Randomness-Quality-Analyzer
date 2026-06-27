@@ -72,7 +72,7 @@ pip install numpy matplotlib scipy pillow
 
 ## Authorship
 
-**George W. Aravidis **
+**George W. Aravidis** 
 Email address: du3mceskwd5wfy.gyf92@slmail.me
 
 ## License
